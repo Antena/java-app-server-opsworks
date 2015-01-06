@@ -1,0 +1,11 @@
+name             'java-app-server-opsworks'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures java-app-server-opsworks'
+long_description 'Installs/Configures java-app-server-opsworks'
+version          '0.1.0'
+
+depends 'apt'
+depends 'git'
+depends 'maven'
